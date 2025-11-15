@@ -19,4 +19,4 @@ This architecture is locked for high-stakes, multi-project integration, establis
  
 ---
 ### 🔬 Delivered Core Asset Repository
-* [View Rendered Systemic Implementation Notebook (AGI Core Logic)](https://nbviewer.org/github/AI-Sovereign/Multimodal-AGI-Architecture-Implementation/blob/main/Advanced_Multimodal_AGI_Architecture.ipynb)
+* [View Rendered Systemic Implementation Notebook (AGI Core Logic)](https://nbviewer.org/urls/raw.githubusercontent.com/AI-Sovereign/Multimodal-AGI-Architecture-Implementation/main/Advanced_Multimodal_AGI_Architecture.ipynb)
